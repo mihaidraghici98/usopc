@@ -8,3 +8,8 @@ COMMIT -> am adaugat ceva care merge
 > git commit : 
 	- STAGING AREA: > git add <...>    (sau -A = all)
 	- BRANCH: > git commit    (pleaca in cloud)
+	
+	
+> git log : arata detaliile despre commit-ul curent
+
+> git commit -M "Exemplu titlu"
