@@ -1,0 +1,10 @@
+GitHub -> VersionControlSystem
+COMMIT -> am adaugat ceva care merge
+
+> git init -> initializeaza
+
+> git status :branch
+
+> git commit : 
+	- STAGING AREA: > git add <...>    (sau -A = all)
+	- BRANCH: > git commit    (pleaca in cloud)
