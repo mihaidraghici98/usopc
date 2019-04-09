@@ -13,3 +13,8 @@ COMMIT -> am adaugat ceva care merge
 > git log : arata detaliile despre commit-ul curent
 
 > git commit -m "Exemplu titlu"
+
+Dupa X commit-uri, este nevoie de >git push pentru upload pe server
+> git remove -v
+> git push origin master
+			branch pe server, branch local
