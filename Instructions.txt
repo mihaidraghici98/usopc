@@ -18,3 +18,7 @@ Dupa X commit-uri, este nevoie de >git push pentru upload pe server
 > git remove -v
 > git push origin master
 			branch pe server, branch local
+			
+Create new brench 
+
+! Udacity github course => curs gratuit
