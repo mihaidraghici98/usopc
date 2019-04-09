@@ -12,4 +12,4 @@ COMMIT -> am adaugat ceva care merge
 	
 > git log : arata detaliile despre commit-ul curent
 
-> git commit -M "Exemplu titlu"
+> git commit -m "Exemplu titlu"
